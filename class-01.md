@@ -75,7 +75,7 @@
 - What is a script?
   - series of instructions that the computer executes to complete a task
   - when the script runs, only a subset of all instructions are being used
-  - computers internpret commands more technically than humans, so scripts need to be written in the most basic form to ensure that each step is completed
+  - computers interpret commands more technically than humans, so scripts need to be written in the most basic form to ensure that each step is completed
 - How do computers fit in the world?
   - computers use data to create models of the world
   - models use objects: represent physical things using properties --> perform tasks --> trigger events
