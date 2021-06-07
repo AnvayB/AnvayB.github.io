@@ -3,8 +3,8 @@ This website is a collection of all the reading notes I take during the Code 201
 I will provide a list of definitions for the simpler concepts, and take outlined notes for the more difficult topics.
 
 ## Table of Contents
-[Read 01](https://github.com/AnvayB/reading-notes/blob/main/Read:%2001)
-[Read 02](https://github.com/AnvayB/reading-notes/blob/main/Read:%2002)
+1. [Read 01](https://github.com/AnvayB/reading-notes/blob/main/Read:%2001)
+2. [Read 02](https://github.com/AnvayB/reading-notes/blob/main/Read:%2002)
 
 3. Read 03
 4. Read 04
