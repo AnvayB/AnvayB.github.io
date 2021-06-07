@@ -38,11 +38,33 @@
   - elements that will continue to appear on the same line as others
     - Ex: a, b, em, img
  7. Grouping Text & Elements in a Block
-  - 
+  - div allows you to group elements into 1 block-level box
 
 
 # HTML Chapter 17: HTML 5 Layout
+1. Headers & Footers
+  - header, footer
+    - main header/footer that appears at top/bottom of each page
+2. Navigation
+  - nav
+    - contains major navigational blocks directing to certain pages on the site
+3. Articles
+  - article
+    - acts as a container for any standalone length of code
+4. Asides
+  - when used inside *article* element, contains info related but not essential to *article*
 
 # HTML Chapter 18: Process & Design
+- Who is the site for?
+  - target audience? demographic? location? 
+  - what is their attitude when viewing the site?
+  - what info will the users need?
+  - how often will people visit the site?
+  - test the site's functionalities by using the website through the eyes of various (fictional) users
+- Why are people visiting the site? What are they trying to achieve?
+  - information? shopping? recreation?
+- Use site maps to determine how various pages should be grouped
+- ![Screen Shot 2021-06-07 at 3 44 42 AM](https://user-images.githubusercontent.com/53208269/121003717-b39b4b00-c742-11eb-82bd-301a2f70359c.png)
+
 
 # JS Chapter 1: The ABCs of Programming
