@@ -4,8 +4,8 @@ I will provide a list of definitions for the simpler concepts, and take outlined
 
 ## Table of Contents
 [Read 01](https://github.com/AnvayB/reading-notes/blob/main/Read:%2001)
+[Read 02](https://github.com/AnvayB/reading-notes/blob/main/Read:%2002)
 
-2. Read 02
 3. Read 03
 4. Read 04
 5. Read 05
