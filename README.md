@@ -1,7 +1,7 @@
 # Code 201 Reading Notes
 This website is a collection of all the reading notes I take during the Code 201 course.
 
-##Table of Contents
+## Table of Contents
 1. Structure
 2. Text
 3. Lists
