@@ -2,18 +2,18 @@
 This website is a collection of all the reading notes I take during the Code 201 course.
 
 ## Table of Contents
-1. Structure
-2. Text
-3. Lists
-4. Links
-5. Images
-6. Tables
-7. Forms
-8. Extra Markup
-9. Flash, Video, & Audio
-10. Intrducing CSS
-11. Color
-12. Text
-13. Boxes
-14. Lists, Tables, & Forms
-15. Layout
+1. Read 01
+2. Read 02
+3. Read 03
+4. Read 04
+5. Read 05
+6. Read 06
+7. Read 07
+8. Read 08
+9. Read 09
+10. Read 10
+11. Read 11
+12. Read 12
+13. Read 13
+14. Read 14
+15. Read 15
