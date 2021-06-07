@@ -2,7 +2,7 @@
 This website is a collection of all the reading notes I take during the Code 201 course.
 
 ## Table of Contents
-1. Read 01 (reading-notes/Read: 01)
+1. [Read 01] (reading-notes/Read: 01)
 2. Read 02
 3. Read 03
 4. Read 04
