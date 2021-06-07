@@ -2,7 +2,7 @@
 This website is a collection of all the reading notes I take during the Code 201 course.
 
 ## Table of Contents
-1. [Read 01] (https://github.com/AnvayB/reading-notes/blob/main/Read:%2001)
+[Read 01] (https://github.com/AnvayB/reading-notes/blob/main/Read:%2001)
 2. Read 02
 3. Read 03
 4. Read 04
