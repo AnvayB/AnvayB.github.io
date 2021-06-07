@@ -21,7 +21,7 @@
   - attributes require a *name* and *value*
 
 # HTML Chapter 8: Extra Markup
-1. <!DOCTYPE html> tells browser which version of HTML (HTML5) we're using
+1. !DOCTYPE html: tells browser which version of HTML (HTML5) we're using
   - different tag content for older versions
 2. Comments in HTML
   - used to tell yourself and others what a certain block of code does, or where you got it from
