@@ -63,8 +63,12 @@
   - test the site's functionalities by using the website through the eyes of various (fictional) users
 - Why are people visiting the site? What are they trying to achieve?
   - information? shopping? recreation?
-- Use site maps to determine how various pages should be grouped
-- ![Screen Shot 2021-06-07 at 3 44 42 AM](https://user-images.githubusercontent.com/53208269/121003717-b39b4b00-c742-11eb-82bd-301a2f70359c.png)
+- Use site maps to determine how various pages should be grouped 
+![Screen Shot 2021-06-07 at 3 44 42 AM](https://user-images.githubusercontent.com/53208269/121003717-b39b4b00-c742-11eb-82bd-301a2f70359c.png)
+- use wireframes to create hierarchy of info and sketch how info should be viewed
+![Screen Shot 2021-06-07 at 3 46 16 AM](https://user-images.githubusercontent.com/53208269/121003925-eb09f780-c742-11eb-9529-3173eff11b2e.png)
+- Grouping helps organize info so that user can comprehend the site easily
+![Screen Shot 2021-06-07 at 3 47 48 AM](https://user-images.githubusercontent.com/53208269/121004116-2278a400-c743-11eb-813e-9789761bc225.png)
 
 
 # JS Chapter 1: The ABCs of Programming
