@@ -72,3 +72,17 @@
 
 
 # JS Chapter 1: The ABCs of Programming
+- What is a script?
+  - series of instructions that the computer executes to complete a task
+  - when the script runs, only a subset of all instructions are being used
+  - computers internpret commands more technically than humans, so scripts need to be written in the most basic form to ensure that each step is completed
+- How do computers fit in the world?
+  - computers use data to create models of the world
+  - models use objects: represent physical things using properties --> perform tasks --> trigger events
+    - when a certain event occurs, another event can be triggered as a result
+  - HTML markup is used to create models of web pages
+  - web pages are made interactive by using the browser's model of the web page
+- How is script written for a web page?
+  - JS code should have its own file, and be referenced in the HTML code (same for CSS files)
+  - the HTML *script* element is used to tell the browser to load the JS file (similar to *link* to load a CSS file)
+  - viewing the source code of a page shows that the JS hasn't changed the HTML code bc the script works with the web page model
