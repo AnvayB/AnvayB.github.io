@@ -26,4 +26,24 @@
 21. All these tags serve to provide semantic reference for other viewers of your code
 
 # HTML Chapter 10: Introducing CSS
+- Thinking Inside the Box
+- CSS associates style rules with HTML elements
+- CSS rules:
+  - selector { declaration; }
+    - p { color: blue; }
+  - property { value; }
+    - h1, h2, h3 { font-family: Arial; color: yellow; }
+1. External CSS
+- `<link href="css/styles.css" type = "text/css" rel = "stylesheet" />`
+  - href: path to CSS file
+  - type: type of c=document being linked to
+  - rel: relationship between HTML page and CSS file
+2. Internal CSS
+- `<style type = "text/css"> </style>`
+- CSS rules within an HTML page
+3. CSS selectors:
+
+![Screen Shot 2021-06-08 at 1 35 09 AM](https://user-images.githubusercontent.com/53208269/121152095-c4f35e80-c7f9-11eb-9a6c-eb112e48dc5c.png)
+`-`Duckett HTML book, pg 238
+
 
