@@ -46,4 +46,15 @@
 ![Screen Shot 2021-06-08 at 1 35 09 AM](https://user-images.githubusercontent.com/53208269/121152095-c4f35e80-c7f9-11eb-9a6c-eb112e48dc5c.png)
 `-`Duckett HTML book, pg 238
 
+# JS Chapter 2: Basic JS Instructions
+- script is a series of instructions
+- variables: var quantity; quantity = 3;  
+  - store temporary peices of info (data) that are used later in the script
+- Arrays: store a set of related data 
+- JS variables distinguish between numbers, strings, and Boolean values
+- Expressions rely on operations to calculate values and evaluate into a single value
+- Arithmetic Operations:
+
+![Screen Shot 2021-06-08 at 1 49 13 AM](https://user-images.githubusercontent.com/53208269/121154322-bb6af600-c7fb-11eb-9e8e-64e825adf9f8.png)
+`-` Duckett JS book, pg 76
 
