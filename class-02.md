@@ -58,3 +58,51 @@
 ![Screen Shot 2021-06-08 at 1 49 13 AM](https://user-images.githubusercontent.com/53208269/121154322-bb6af600-c7fb-11eb-9e8e-64e825adf9f8.png)
 `-` Duckett JS book, pg 76
 
+# JS Chapter 4: Decisions and Loops
+- Comparisons
+-  used for comparing numbers or expressions
+  - == - is equal to
+  - != - is not equal to
+  - === - strict equal to
+  - !== - strict not equal to
+  - `>` - greater than
+  - `<` - less than
+  - `>=` - greater than or equal to
+  - `<=` - less than or equal to
+- Logical Operators
+  - && - logical AND
+  - || - logical OR
+  - ! - logical NOT
+- If/Else Statements
+  - if (score >= 85)
+    - { congratulate; }
+  - else {
+    - { encourage; }
+- Switch statements
+  - faster than if/else
+  - finds the case that matches the input and runs that code
+  - otherwise, runs the default code
+  - allows for more options than if/else
+  
+![Screen Shot 2021-06-08 at 2 03 21 AM](https://user-images.githubusercontent.com/53208269/121156628-b5761480-c7fd-11eb-8a73-e2b06bc96709.png)
+ `-` Duckett JS book, pg 164 
+ 
+ - Data Types in JS
+   - string : Text
+   - number : Number
+   - Boolean : T/F
+   - null : Empty value
+   - undefined: variable has been declared but not yet assigned a value
+
+- Loops
+  - for: run a code a specific number of times
+  - while: run a code until a certain condition is met
+  - do while: similar to ^; will always run the code inside the {} at least once, even if the condition evaluates to `false`
+  - Loop counters
+    - Initialization: var i = 0;
+    - Condition: i < 10;
+    - Update: i++
+
+![Screen Shot 2021-06-08 at 2 10 26 AM](https://user-images.githubusercontent.com/53208269/121157794-b2c7ef00-c7fe-11eb-8b38-552c67672b15.png)
+
+`-` Dockett JS book, pgs 172-173
