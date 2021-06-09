@@ -32,7 +32,7 @@
 - accessing and changing values in an array:
 
 ![Screen Shot 2021-06-09 at 2 23 31 AM](https://user-images.githubusercontent.com/53208269/121329038-b2485a80-c8c9-11eb-915c-46efc68b3633.png)
-`-` from HTML Duckett book, pg 
+`-` from HTML Duckett book, pg 73
 
 # JS Chapter 4: Decisions and Loops – Switch statements and on
 - covered switch statements and loops in:
@@ -49,3 +49,8 @@
 ![Screen Shot 2021-06-09 at 2 32 16 AM](https://user-images.githubusercontent.com/53208269/121330483-e96b3b80-c8ca-11eb-9878-11f84b45c2cb.png)
 `-` from JS Duckett book, pg 167
 
+- Checking equality and existence
+  - Bc of type coercion, the strict quality operators === and !== result in fewer unexpected results than == and != do
+
+![Screen Shot 2021-06-09 at 2 39 08 AM](https://user-images.githubusercontent.com/53208269/121331596-df960800-c8cb-11eb-9549-b64eaee37605.png)
+`-` from JS Duckett book, pg 168
