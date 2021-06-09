@@ -30,7 +30,9 @@
 - values in an array are accessed as though they're in a numbered list, starting with 0
   - `["white", "black", "red"] ==> [0,1,2]`
 - accessing and changing values in an array:
+
 ![Screen Shot 2021-06-09 at 2 23 31 AM](https://user-images.githubusercontent.com/53208269/121329038-b2485a80-c8c9-11eb-915c-46efc68b3633.png)
+`-` from HTML Duckett book, pg 
 
 # JS Chapter 4: Decisions and Loops – Switch statements and on
 - covered switch statements and loops in:
@@ -43,6 +45,7 @@
   - can be treated as the number 1
 - Falsy value: treated *as if* they are false
   - can be treated as the number 0
-![Screen Shot 2021-06-09 at 2 32 16 AM](https://user-images.githubusercontent.com/53208269/121330483-e96b3b80-c8ca-11eb-9878-11f84b45c2cb.png)
 
+![Screen Shot 2021-06-09 at 2 32 16 AM](https://user-images.githubusercontent.com/53208269/121330483-e96b3b80-c8ca-11eb-9878-11f84b45c2cb.png)
+`-` from JS Duckett book, pg 167
 
