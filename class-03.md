@@ -23,9 +23,11 @@
 # JS Chapter 2: Basic JS Instructions – Arrays
 - arrays store a list of values
 - creating an array:
-  - `let colors = ["white", "black", "red"];`
-  - `let el = document.getElementById("colors");`
-  - `el.textContent = colors[0];`
+```
+  - let colors = ["white", "black", "red"];
+  - let el = document.getElementById("colors");
+  - el.textContent = colors[0];
+  ```
   - Result – Color: white
 - values in an array are accessed as though they're in a numbered list, starting with 0
   - `["white", "black", "red"] ==> [0,1,2]`
@@ -50,7 +52,7 @@
 `-` from JS Duckett book, pg 167
 
 - Checking equality and existence
-  - Bc of type coercion, the strict quality operators === and !== result in fewer unexpected results than == and != do
+  - Bc of type coercion, the strict quality operators === and !== result in unexpected results than == and != do
 
 ![Screen Shot 2021-06-09 at 2 39 08 AM](https://user-images.githubusercontent.com/53208269/121331596-df960800-c8cb-11eb-9549-b64eaee37605.png)
 `-` from JS Duckett book, pg 168
