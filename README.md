@@ -6,8 +6,8 @@ I will provide a list of definitions for the simpler concepts, and take outlined
 1. [Read 01](https://github.com/AnvayB/reading-notes/blob/main/class-01.md)
 2. [Read 02](https://github.com/AnvayB/reading-notes/blob/main/class-02.md)
 3. [Read 03](https://github.com/AnvayB/reading-notes/blob/main/class-03.md)
+4. [Read 04](https://github.com/AnvayB/reading-notes/blob/main/class-04.md)
 
-4. Read 04
 5. Read 05
 6. Read 06
 7. Read 07
