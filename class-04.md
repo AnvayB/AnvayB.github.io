@@ -51,4 +51,15 @@ let volume1 = getSize(3,2,3)[1];
 ```
 
 # 6 Reasons for Pair Programming
-1. 
+1. Greater efficiency
+  - 2 people working on the same code base helps the project complete faster and catch mistakes easier 
+2. Engaged collaboration
+  - Experience is more engaging and both programmers are more focused than if they were working alone
+3. Learning from fellow students
+  - Everyone has a different approach to problem solving --> best way to learn other people's techniques
+4. Social skills
+  - Increased communication and interpersonal skills
+5. Job interview readiness
+  - Showing communication and interpersonal skills, as well as efficient coding procedures, are impressive to interviewers
+6. Work evironment readiness
+  - Companies that utilize pair programming expect to train fresh CS hires on how to actually deliver a product
