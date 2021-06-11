@@ -40,11 +40,12 @@ body {
   letter-spacing: .2em;
   text-align: left/right/justify;
   vertical-align: text-top/text-bottom/baseline;
+  ```
 
   ![Screen Shot 2021-06-11 at 2 37 56 AM](https://user-images.githubusercontent.com/53208269/121666381-08e69d80-ca5e-11eb-9f6c-4623a39faec0.png)
   - HTML Duckett book, pg 288
 
-  
+``` css  
 }
 @font-face { /*allows you to use a font that isn't installed on the user's computer*/
   font-family: 'ChunkFiveRegular';
