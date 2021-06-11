@@ -53,3 +53,22 @@ body {
 }
 ```
 - you can have pseudo-classes to change the style of an element when a user hovers over or clicks on text, or when they have visited a link
+
+# JPEG vs PNG vs GIF
+- JPEG
+  - use for images that contain a natural scene or photograph where varaition in color and intensity is smooth
+  - lossy compression -> 1:10 compression ratio without noticeable difference in quality
+  - works by averaging out colors of nearby pixels
+  - bad for: image with text lines where there is a sharp contrast between adjacent pixels
+  - doesn't support transparency
+- PNG
+  - use for any image that needs transparency or for images with text and objects with shaprt contrast edges like logos
+  - lossless image format; uses DEFLATE compression
+  - retains higher quality and looks sharper than JPEG, but also takes up more space on disk
+  - bad for: storing or transferring high-resolution digital photos
+  - supports index and partial transparency
+- GIF
+  - use for images that contain animations 
+  - lossless image format; uses LZW compression algorithm
+  - mainly used for images that contain animations
+  - supports index transparency
