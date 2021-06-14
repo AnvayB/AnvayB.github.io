@@ -31,3 +31,15 @@ var hotelName = hotel.name;
 var roomsFree = hotel.checkAvailability();
 ```
 # JS Chapter 5: Document Object Model
+- the browser represents the page using a DOM tree
+- DOM trees have 4 types of nodes:
+  - document nodes
+  - element nodes
+  - attribute nodes
+  - text nodes
+- you can select element nodes by their id or class attributes, by tag name, or using CSS selector syntax
+- whenever a DOM quer can return more than 1 node, it will always return a NodeList
+- from an element node, you can access and update its content using properties such as textContent and innerHTML or using DOM manipulation techniques
+- an element node can contain multiple text nodes and child elements that are siblings of each other
+- in older browsers, implementation of DOM is inconsistent (and a popular reason for using jQuery)
+- browsers offer tools for viewing the DOM tree
