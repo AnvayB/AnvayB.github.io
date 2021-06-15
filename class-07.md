@@ -1,4 +1,16 @@
 # Domain Modeling
+- process of creating a concpetual model in code for a specific problem
+  - describes various entities, their attribtues and behaviors, and the constraints that govern the problem domain
+    - entity that stores data in properties and encapsulates behaviors in methods is referred to as an Object-Oriented model
+  - a well articulated domain model can verify and validate the understanding of a specific problem among various stakeholders
+  - communcation tool: it defines a vocabulary that can be used within and between both technical and business teams
+- tips for building domain models
+  1. when modeling a single entity that'll have many instances, build self-contained objects with the same attributes and behaviors
+  2. model its attributes with a constructor function that defines and initializes properties
+  3. model its begaviors with small methods that focus on doing 1 job well
+  4. create instances using the `new` keyboard followed by a call to a constructor function
+  5. store the newly created object in a variable so you can access its proerties and methods from **outside**
+  6. use the `this` variable within methods so you can access the object's properties andmethods from **inside**
 
 # HTML Chapter 6: Tables
 - table represents information in a grid format
