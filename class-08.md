@@ -9,8 +9,8 @@
 - `float` – allows you to take an element in normal flow and palce it as far to the left or right of the containing element as possible
 - `clear` – allows you to say that no element (within the same containing element) should touch the left or right hand sides of a box
   - left/right/both/none
-- `<div>` elements are used as containing elements to group sections of a page tovether
-- browsers display pages in normal flow unless relative/absolute/fized positioning has been specified
+- `<div>` elements are used as containing elements to group sections of a page together
+- browsers display pages in normal flow unless relative/absolute/fixed positioning has been specified
 - the `float` property moves content to the left or right of the page and can be used to create multi-column layouts
   - floated items require a defined width
 - designers keep pages within 960-1000 px wide, and indicate what the site is about within the top 600 px
