@@ -29,7 +29,11 @@
 # JS Chapter 6: Events
 ![Image 6-17-21 at 2 59 AM](https://user-images.githubusercontent.com/53208269/122375305-f4038180-cf17-11eb-82db-f5e63abdbdcb.jpg)
 ![Image 6-17-21 at 3 00 AM](https://user-images.githubusercontent.com/53208269/122375536-27dea700-cf18-11eb-8305-7fdc46337621.jpg)
-
 `-` from Duckett JS book, pg 246-247
-
-- 
+- events are the browser's way of indicating when something has happened (ex: page has finished loading or button has been clicked)
+- binding is the process of stating which event you are waiting to happen, and which element you are waiting for that event to happen upon
+- when an event occurs on an element, it can trigger a JS function.
+  - when this function then changes the web page is some way, it feels interactive bc it has responded to the user
+- you can use event delegation to monitor for events that happen on all of the children of all element
+- the most commonly used events are W3C DOM events 
+  - although there are others in the HTML5 specification as well as browser-specific events
