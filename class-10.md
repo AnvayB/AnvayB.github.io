@@ -6,6 +6,8 @@
   - which line (and sometimes which column of text) it's on
 - JS has 7 different types of errors
   - Syntax error: syntax is not correct
-   ```js document.write("Howdy!');```
+   ```js 
+   document.write("Howdy!');
+   ```
    
   - Reference error: variable does not exist
