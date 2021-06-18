@@ -9,5 +9,24 @@
    ```js 
    document.write("Howdy!');
    ```
-   
   - Reference error: variable does not exist
+  ```js 
+   let width = 4;
+   let area = width * height;
+   //or
+   document.write(getArea());
+   ```
+   - Eval error: incorrect use of `eval(): evaluates text through the interpreter` function
+   - URI error: incorrect use fo uri functions, these characters not allowed: `/ ? & # : ; `
+   ```js 
+   decodeURI('http://bbc/com/news/php?a=1');
+   ```
+   - Type error: value is unexpected data type, method doesn't exist
+   ```js 
+   document.WRITE("Oops!");
+   ```
+   - Range error: number outside of range
+   ```js 
+   let array = new Array(-1);
+   ```
+   - Error: generic error object, template/prototype for all other error objects
