@@ -30,3 +30,5 @@
    let array = new Array(-1);
    ```
    - Error: generic error object, template/prototype for all other error objects
+- if you know that you're going to get an error, you can handle them properly using the `try/catch` or `finally` statements.
+  - using them helps gives your users good feedback on changing their input
