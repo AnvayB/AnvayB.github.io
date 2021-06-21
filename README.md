@@ -13,8 +13,8 @@ I will provide a list of definitions for the simpler concepts, and take outlined
 8. [Read 08](https://github.com/AnvayB/reading-notes/blob/main/class-08.md)
 9. [Read 09](https://github.com/AnvayB/reading-notes/blob/main/class-09.md)
 10. [Read 10](https://github.com/AnvayB/reading-notes/blob/main/class-10.md)
+11. [Read 11](https://github.com/AnvayB/reading-notes/blob/main/class-11.md)
 
-11. Read 11
 12. Read 12
 13. Read 13
 14. Read 14
