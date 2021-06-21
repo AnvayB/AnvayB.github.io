@@ -1,6 +1,18 @@
 # HTML Chapter 16: Images
+- you can specify the dimensions of images using CSS
+  - helpful when you use the same sized images on several pages of your site
+- images can be aligned horizontally and vertically using CSS
+- you can use a background image behing the boz created by any element on a page
+- background images can appear just once or be repeated across the background of the box
+- you can create image rollover effects by moving the background position of an image
+- to reduce the number of images your browser has to load, you can create image sprites
 
 # HTML Chapter 19: Practical Information
+- search engine optimization (SEO) helps visitors find your sites when using searching engines (Google, Bing, Yahoo, Firefox, Edge)
+- analytics tools like Google Analytics allow you to see how many people visit your site, how they find it, and what they do when they get there
+- to put your name on the web, you'll need to obtain a domain name and web hosting
+- file transfer protocol (FTP) programs allow you to transfer files from your local computer to your web server
+- Many comapnies provide platforms for blogging, email newsletters e-commerce and other popular website tools (to save you writing them from scratch).
 
 # Video and Audio APIs: MDN Article
 - HTML5 has elements for embedding rick media in documents - video and audio - which come with their own APIs for controlling playback, seeking, etc. 
