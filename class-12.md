@@ -87,7 +87,7 @@ var myChart = new Chart(ctx, {
   - Styling fonts
   - `fillText(text, x, y [, maxWidth])`
   - `strokeText(text, x, y [, maxWidth])`
-  - ```js
+  ```js
   function draw() {
     var ctx = document.getElementById('canvas').getContext('2d');
     ctx.font = '48px serif';
