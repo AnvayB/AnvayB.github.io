@@ -85,8 +85,8 @@ var myChart = new Chart(ctx, {
   - [More Transitions, strokeStyle, gloablAlpha, rgba()](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
 - Drawing Text
   - Styling fonts
-  `fillText(text, x, y [, maxWidth])`
-  `strokeText(text, x, y [, maxWidth])`
+  - `fillText(text, x, y [, maxWidth])`
+  - `strokeText(text, x, y [, maxWidth])`
   ```js
   function draw() {
     var ctx = document.getElementById('canvas').getContext('2d');
