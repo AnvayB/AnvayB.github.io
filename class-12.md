@@ -51,3 +51,46 @@ var myChart = new Chart(ctx, {
 ```
 
 # Canvas API
+- `<canvas>` element:
+  - similar to `<img>` element, except it only has width and height attributes (300px X 150px)
+  - uses ^^ dimensions to draw shapes on grid
+    - Rectangle shape example
+    ```js
+    function draw() {
+      var canvas = document.getElementById('canvas');
+      if (canvas.getContext) {
+      var ctx = canvas.getContext('2d');
+
+      ctx.fillRect(25, 25, 100, 100);
+      ctx.clearRect(45, 45, 60, 60);
+      ctx.strokeRect(50, 50, 50, 50);
+      }
+    }
+    ```
+  - [Drawing Lines and Triangles](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+- Styles and Colors
+  - Red to Green blocky transition:
+  ```js
+  function draw() {
+    var ctx = document.getElementById('canvas').getContext('2d');
+    for (var i = 0; i < 6; i++) {
+      for (var j = 0; j < 6; j++) {
+        ctx.fillStyle = 'rgb(' + Math.floor(255 - 42.5 * i) + ', ' +
+                         Math.floor(255 - 42.5 * j) + ', 0)';
+        ctx.fillRect(j * 25, i * 25, 25, 25);
+      }
+    }
+  }
+  ```
+  - [More Transitions, strokeStyle, gloablAlpha, rgba()](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+- Drawing Text
+  - Styling fonts
+  - `fillText(text, x, y [, maxWidth])`
+  - `strokeText(text, x, y [, maxWidth])`
+  - ```js
+  function draw() {
+    var ctx = document.getElementById('canvas').getContext('2d');
+    ctx.font = '48px serif';
+    ctx.strokeText('Hello world', 10, 50);
+  } 
+  ```
