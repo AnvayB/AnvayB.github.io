@@ -1,0 +1,26 @@
+# What Google Learned From Its Quest to Build the Perfect Team
+- different groups have different dynamics, based on 
+  - environment
+  - demographic
+  - age group
+  - course/major
+  - energy, etc
+- a group where talking loudly over each other just creates insecurity with the quieter members and a power imbalance with the louder ones
+- Employee Performance Optimization
+  - more than 75% of a tech employee's day is spent in communicating with colleagues
+  - groups tend to innovate faster and better results with higher job satisfaction
+  - profitability increases when workers are persuaded to collaborate more
+- Project Aristotle
+  - Questions 
+    - How often did teammates socialize outside the office? 
+    - Did they have the same hobbies? 
+    - Were their educational backgrounds similar? 
+    - Was it better for all teammates to be outgoing or for all of them to be shy?
+  - Team leaders create a lot of the group's unspoken rules by reinforcing behavior that they act on
+  - Different people choose different teams based on the dynamic
+    - serious minded focus on efficiency and time
+    - free flowing thought with loose restrictions
+  - The best group replenishes your energy and drive, not spend it
+    - groups that create psychological safety are extremely important
+    - social vulnerability creates connectivity
+- Optimizing groups thorugh efficient time management still falls short before create those emotional connections within a group, that help each memeber understand each other and work together better
