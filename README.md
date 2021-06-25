@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
-This website is a collection of all the reading notes I take during the Code 201 course.
-I will provide a list of definitions for the simpler concepts, and take outlined notes for the more difficult topics.
+This website is a collection of all the reading notes (with links) I take during the Code 201 course.
+
 
 ## Table of Contents
 1. [Read 01](https://github.com/AnvayB/reading-notes/blob/main/class-01.md)
