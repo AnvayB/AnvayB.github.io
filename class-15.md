@@ -53,8 +53,10 @@
 - Swing (Vibrate Side-to-Side)
 - Inset Border
 
-## (6 Buttons Animated)[http://codepen.io/retyui/pen/ByoaXV]
+## [6 Buttons Animated](http://codepen.io/retyui/pen/ByoaXV)
 
-## (Bouncing Ball Animation Loop)[http://codepen.io/akshaychauhan/pen/oAfae]
+## [Bouncing Ball Animation Loop](http://codepen.io/akshaychauhan/pen/oAfae)
 
-## 
+## [404 Text Animation](http://codepen.io/kieranfivestars/pen/MYdQxX)
+
+## [Much Cooler Bouncing Animation](http://codepen.io/dp_lewis/pen/gCfBv)
