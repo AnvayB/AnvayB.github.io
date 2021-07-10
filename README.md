@@ -10,7 +10,7 @@
 
 ## [Code 301 - Intermediate Software Development](https://github.com/AnvayB/reading-notes/tree/main/Code%20301)
 
-| Syntax      | Description | Link |
+| Title | Year | Link |
 | ----------- | ----------- | ----- |
 | Header      | Title       |
 | Paragraph   | Text        |
