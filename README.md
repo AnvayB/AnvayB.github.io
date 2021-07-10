@@ -3,8 +3,9 @@
 
 ## [Code 201 - Foundations of Software Development](https://github.com/AnvayB/reading-notes/blob/main/Code%20201/201%20Notes%20Directory.md)
   - referenced texts from Jon Duckett's books
-    - [HTML & CSS: Design and Build Web Sites](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
-    - [JavaScript and JQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
+  | Title | Year | Link|
+  | HTML & CSS: Design and Build Web Sites | 2011 | [HTML link](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
+  | JavaScript and JQuery: Interactive Front-End Web Development | 2009 | [JS link](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
 
 ## [Code 301 - Intermediate Software Development](https://github.com/AnvayB/reading-notes/tree/main/Code%20301)
 
