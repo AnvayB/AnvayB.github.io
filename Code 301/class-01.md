@@ -27,4 +27,4 @@
 - used for passing data from one component to another
 
 ## What is the flow of props?
-- unidirectional flow: from Parent `&#8594;` Child
+- unidirectional flow: from Parent → Child
