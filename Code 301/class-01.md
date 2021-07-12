@@ -28,3 +28,6 @@
 
 ## What is the flow of props?
 - unidirectional flow: from Parent → Child
+
+## Things I want to know more about
+- nothing for now, I think I'll understand this better with a Live Demo during class
