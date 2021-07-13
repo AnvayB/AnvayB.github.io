@@ -3,3 +3,4 @@ This website is a collection of all the reading notes (with links) I take during
 
 ## Table of Contents
 1. [Read 01](https://github.com/AnvayB/reading-notes/blob/main/Code%20301/class-01.md)
+2. [Read 02](https://github.com/AnvayB/reading-notes/blob/main/Code%20301/class-02.md)
