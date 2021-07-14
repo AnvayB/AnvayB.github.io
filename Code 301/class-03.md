@@ -33,26 +33,26 @@ ReactDOM.render(
 
 ### Give an example of using the spread operator to combine 2 arrays
 ```js
-const myArray = [`🤪`,`🐻`,`🎌`];
-const yourArray = [`🙂`,`🤗`,`🤩`];
+const myArray = ['A','B','C'];
+const yourArray = ['D','E','F'];
 const ourArray = [...myArray,...yourArray];
 console.log(...ourArray);
 ```
 
 ### Give an example of using the spread operator to add a new item to an array
 ```js
-const fewFruit = ['🍏','🍊','🍌'];
-const fewMoreFruit = ['🍉', '🍍', ...fewFruit];
-console.log(fewMoreFruit);
+const letters = [a,b,c];
+const moreLetters = [e, f, ...letters];
+console.log(moreLetters); // [a,b,c,e,f]
 ```
 
 ### Give an example of using the spread operator to combine 2 objects into one
 ```js
-const objectOne = {hello: "🤪"}
-const objectTwo = {world: "🐻"}
-const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}
-console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }
-const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}
+const objectOne = {hello: 'A'}
+const objectTwo = {world: 'B'}
+const objectThree = {...objectOne, ...objectTwo, laugh: 'C'}
+console.log(objectThree) // Object { hello: "A", world: 'B', laugh: 'C' }
+const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log('C'.repeat(5))}}
 objectFour.laugh()
 ```
 ---
