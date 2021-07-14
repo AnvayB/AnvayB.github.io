@@ -68,6 +68,7 @@ incrememnt = (name => {
 - it increases the value of the count by 1
 
 ### How can you pass a method from a parent component into a child component?
-- 
+- using props: make a prop that uses the function created in the Parent by writing this.props.`function` to call that function in the Child
 
 ### How does the child component invoke a method that was passed to it from a parent component?
+- the function passed in the prop can be called with `function()` and passed in the parameters of the Child
