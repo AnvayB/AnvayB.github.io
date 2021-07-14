@@ -23,7 +23,7 @@ ReactDOM.render(
 ---
 
 ### What is the spread operator?
-- 
+- a JS syntax tool used for adding items to arrays, combining arrays and objects, and spreading an array
 
 ### List 4 things that the spread operator can do
 - copying an array
@@ -58,6 +58,7 @@ objectFour.laugh()
 ---
 
 ### In the video, what is the first step that the developer does to pass functions between components?
+- 
 
 ### In your own words, what does the increment function do?
 
