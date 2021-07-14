@@ -58,10 +58,16 @@ objectFour.laugh()
 ---
 
 ### In the video, what is the first step that the developer does to pass functions between components?
-- 
+```js
+incrememnt = (name => {
+  let ppl = this.state.people.map()
+}
+```
 
 ### In your own words, what does the increment function do?
+- it increases the value of the count by 1
 
 ### How can you pass a method from a parent component into a child component?
+- 
 
 ### How does the child component invoke a method that was passed to it from a parent component?
