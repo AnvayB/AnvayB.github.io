@@ -5,7 +5,8 @@
 ---
 
 ### Why would we use a ternary operator?
-### Rewrite the following statement using a ternary statement ```js  if(x===y){
+### Rewrite the following statement using a ternary statement 
+```js  if(x===y){
  console.log(true);
   } else {
  console.log(false);
