@@ -1,7 +1,9 @@
 ### How would you break a mock into a component heirarchy?
 - separate each section of the UI
 - For example: 
+
 ![Screen Shot 2021-07-16 at 12 15 18 AM](https://user-images.githubusercontent.com/53208269/125907740-5a6aad73-3fb5-4c8a-b8c4-7ae357927758.png)
+
 from [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 
   - FilterableProductTable(orange): entire table/object
