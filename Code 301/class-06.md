@@ -1,8 +1,8 @@
 ### What is node.js?
 - event-based asynchronous I/O runtime 
 ### In your own words, what is Chrome’s V8 JavaScript Engine?
-- The Chrome V8 JS Engine is an computer engine that works to display JS code on web browsers
-- The V8 engine coverts developer-written JS code into the machine's language (binary?) so it can be compiled and executed.
+- The Chrome V8 JS Engine is a computer engine that works to display JS code on web browsers
+- The V8 engine converts developer-written JS code into the machine's language (binary?) so it can be compiled and executed.
 ### What does it mean that node is a JavaScript runtime?
 - node is used to execute JS code from a computer's Terminal
 ### What is npm?
@@ -25,7 +25,7 @@
 ### What are the 6 reasons for pair programming?
 1. Greater efficiency
 2. Engaged collaboration
-3. Learning from felloow students
+3. Learning from fellow students
 4. Social skills
 5. Job interview readiness
 6. Work environment readiness
