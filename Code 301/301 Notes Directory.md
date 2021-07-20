@@ -1,4 +1,4 @@
-# # Code 301 Reading Notes
+# Code 301 Reading Notes
 This website is a collection of all the reading notes (with links) I take during the Code 301 course.
 
 ## Table of Contents
