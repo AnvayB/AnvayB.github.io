@@ -8,3 +8,4 @@ This website is a collection of all the reading notes (with links) I take during
 4. [Read 04](https://github.com/AnvayB/reading-notes/blob/main/Code%20301/class-04.md)
 5. [Read 05](https://github.com/AnvayB/reading-notes/blob/main/Code%20301/class-05.md)
 6. [Read 06](https://github.com/AnvayB/reading-notes/blob/main/Code%20301/class-06.md)
+7. [Read 07](https://github.com/AnvayB/reading-notes/blob/main/Code%20301/class-07.md)
