@@ -15,7 +15,11 @@
 ---
 
 #### What is a module?
-- 
+- a split JS program that can be accessed using an import
 #### What does the word ‘require’ do?
+- it includes external modules that exist in separate files
+- loads and cahces JS modeules
 #### How do we bring another module into the file the we are working in?
+- `require('./<filename>');`
 #### What do we have to do to make a module available?
+- export the modules and import the features into the script
