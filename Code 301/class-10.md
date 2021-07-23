@@ -1,9 +1,28 @@
 #### What is a ‘call’?
+- function invocation
 #### How many ‘calls’ can happen at once?
+- 1 at a time
 #### What does LIFO mean?
+- Last In, First Out
 #### Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
-#### What causes a Stack Overflow?
+![Screen Shot 2021-07-23 at 8 33 30 AM](https://user-images.githubusercontent.com/53208269/126805834-c920e7a0-6232-4e30-aabb-f5178757fee0.png)
+```js
+function firstFunction(){
+  throw new Error('Stack Trace Error');
+}
 
+function secondFunction(){
+  firstFunction();
+}
+
+function thirdFunction(){
+  secondFunction();
+}
+
+thirdFunction();
+```
+#### What causes a Stack Overflow?
+- when there is a recursive function without an exit/break point
 ---
 
 #### What is a ‘refrence error’?
