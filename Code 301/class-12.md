@@ -1,4 +1,4 @@
-| Syntax      | Description |
+| SQL      | NoSQL |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
