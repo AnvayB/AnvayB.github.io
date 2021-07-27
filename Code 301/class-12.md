@@ -32,6 +32,11 @@
 #### What is a NoSQL database?
 - document based db that implements key-value pairs
 #### How does it work?
+- using a keyspace to distribute data across multiple partitions
+- allows it to scale horizontally across many servers
 #### What is inside of a Mongo database?
+- data records as documents
 #### Which is more flexible - SQL or MongoDB? and why.
+- MongoDB is more flexible because it offers higher and more diverse data availability
 #### What is the disadvantage of a NoSQL database?
+- lower reliability than SQL
