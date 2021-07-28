@@ -31,7 +31,7 @@
 #### How do you make a default value in a schema?
 - make the mongoose string schema type default as value as blank and make the field optional
 #### What does a 500 error status code mean?
-- Internal Server Error: missing header field in backend >>> 
+- Internal Server Error: missing header field in backend >>> third part server is unreachable
 #### What is the difference between a status 200 and a status 201?
 - 200: the request was recieved and understood and is being processed
 - 201: the request was successful and a resource has been created as a result
