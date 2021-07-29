@@ -1,4 +1,4 @@
-#### What occured during the same time as the beginning of the decline of women in computer science?
+#### What occurred during the same time as the beginning of the decline of women in computer science?
 - personal computers became available to have in people's homes
 - and these computers had games like pong and shooting games, marketed towards males
 #### Why does it matter that males had been playing on computers growing up?
