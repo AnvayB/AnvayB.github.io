@@ -15,3 +15,5 @@ This website is a collection of all the reading notes (with links) I take during
 11. [Read 11](https://github.com/AnvayB/reading-notes/blob/main/Code%20301/class-11.md)
 12. [Read 12](https://github.com/AnvayB/reading-notes/blob/main/Code%20301/class-12.md)
 13. [Read 13](https://github.com/AnvayB/reading-notes/blob/main/Code%20301/class-13.md)
+14. [Read 14](https://github.com/AnvayB/reading-notes/blob/main/Code%20301/class-14.md)
+15. [Read 15](https://github.com/AnvayB/reading-notes/blob/main/Code%20301/class-15.md)
